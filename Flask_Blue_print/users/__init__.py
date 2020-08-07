@@ -1,0 +1,1 @@
+from Flask_CRUD_APP.config import config
